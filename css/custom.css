@@ -1,0 +1,16 @@
+.reveal .slides > section.cover-slide > div.left-half {
+  width: 50%;
+  float: left;
+  position: relative;
+  left: -2%;
+}
+
+.reveal .slides > section.cover-slide > div.left-half > h1 {
+  color: black;
+  font-size: 1.4em;
+}
+
+.reveal .slides > section.cover-slide > div.left-half > h3 {
+  color: black;
+  font-size: 0.7em;
+}
