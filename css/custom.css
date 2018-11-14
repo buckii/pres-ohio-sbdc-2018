@@ -14,3 +14,11 @@
   color: black;
   font-size: 0.7em;
 }
+
+.reveal .backgrounds .slide-background {
+  filter: opacity(.15);
+}
+
+.reveal .backgrounds .slide-background[data-background-transition="fullcolor"] {
+  filter: none;
+}
