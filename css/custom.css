@@ -22,3 +22,7 @@
 .reveal .backgrounds .slide-background[data-background-transition="fullcolor"] {
   filter: none;
 }
+
+html,body,.reveal li,.reveal p {
+  line-height: 1.2;
+}
